@@ -1,0 +1,10 @@
+2019-02-04 12:19:52,545 [Worker-19: Creating project "com.app"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tcs:com.app:0.0.1-SNAPSHOT @ C:\Users\srchi\OneDrive\Desktop\Abinash\WareHouse\com.app\pom.xml.
+2019-02-04 12:19:58,733 [Worker-19: Creating project "com.app"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.app/src/main/java
+2019-02-04 12:19:58,736 [Worker-19: Creating project "com.app"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.app/src/main/resources
+2019-02-04 12:19:58,737 [Worker-19: Creating project "com.app"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.app/src/test/java
+2019-02-04 12:19:58,738 [Worker-19: Creating project "com.app"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.app/src/test/resources
+2019-02-04 12:19:59,740 [Worker-19: Creating project "com.app"] INFO  n.t.m.s.i.ProjectSettingsConfigurator - Could not set eclipse settings, consider org.apache.maven.plugins:maven-eclipse-plugin!
+2019-02-04 12:20:03,849 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-04 12:20:03,868 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-04 12:20:03,872 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-04 12:20:03,884 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
